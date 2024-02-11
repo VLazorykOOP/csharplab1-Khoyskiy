@@ -1,0 +1,15 @@
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\bin\Debug\net8.0\webadd-Khoyskiy.exe
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\bin\Debug\net8.0\webadd-Khoyskiy.deps.json
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\bin\Debug\net8.0\webadd-Khoyskiy.runtimeconfig.json
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\bin\Debug\net8.0\webadd-Khoyskiy.dll
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\bin\Debug\net8.0\webadd-Khoyskiy.pdb
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\obj\Debug\net8.0\webadd-Khoyskiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\obj\Debug\net8.0\webadd-Khoyskiy.AssemblyInfoInputs.cache
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\obj\Debug\net8.0\webadd-Khoyskiy.AssemblyInfo.cs
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\obj\Debug\net8.0\webadd-Khoyskiy.csproj.CoreCompileInputs.cache
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\obj\Debug\net8.0\webadd-Khoyskiy.sourcelink.json
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\obj\Debug\net8.0\webadd-Khoyskiy.dll
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\obj\Debug\net8.0\refint\webadd-Khoyskiy.dll
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\obj\Debug\net8.0\webadd-Khoyskiy.pdb
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\obj\Debug\net8.0\webadd-Khoyskiy.genruntimeconfig.cache
+C:\Users\khokh\Source\Repos\webadd-Khoyskiy\obj\Debug\net8.0\ref\webadd-Khoyskiy.dll
